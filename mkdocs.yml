@@ -2,6 +2,7 @@ site_name: Programming and social science
 
 nav:
   - Home: index.md
+  - Setup: setup.md
 
 theme:
   name: material
