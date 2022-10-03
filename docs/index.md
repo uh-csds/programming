@@ -55,9 +55,10 @@ Passing grade on this course requires 80% of exercises done for all exercises.
 
 ## Week 1: Introduction (1.11.)
 
-[g-alert type=warning]
-Before the first session, please have either R or Python installed on your computer. See [Setup](setup.md)
-[/g-alert]
+!!! warning
+    Before the first session, please have either R or Python installed on your computer. See [Setup](setup.md)
+
+
 
 ## Week 2 (8.11.)
 
