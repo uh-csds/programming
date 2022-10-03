@@ -13,3 +13,8 @@ extra_css:
   - stylesheets/extra.css
 
 plugins: []
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
