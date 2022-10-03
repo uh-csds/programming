@@ -2,25 +2,21 @@
 
 ## Option A: Python
 
-[g-alert type=info]
-Recommended for first time programmers.
-[/g-alert]
+!!! tip
+    Recommended for first time programmers.
 
 Running Python on local machine.
 
-Install [Anaconda](https://www.anaconda.com/products/distribution) with Python 3.9.
-
-Follow up installation instructions and start Juniper Notebook from Anaconda settings.
+1. Install [Anaconda](https://www.anaconda.com/products/distribution) with Python 3.9.
+2. Follow up installation instructions and start Juniper Notebook from Anaconda settings.
 
 
 ## Option B: R and RStudio
 
-[g-alert type=info]
-Recommended for people with some previous experience with R.
-[/g-alert]
+!!! tip
+    Recommended for people with some previous experience with R.
 
-Install **both** R and RStudio. 
-
+1. Install **both** R and RStudio. 
 
 
 # Resources
@@ -30,7 +26,8 @@ Install **both** R and RStudio.
 - R Studio
 - Jupyter Notebook
 
-> If you are using a computer (i.e. laptop from your employer), in which you don't have administrative rights to install software, please refer to section Programming on the cloud or contact your IT-helpdesk to help you with installations.
+!!! warning 
+    If you are using a computer (i.e. laptop from your employer), in which you don't have administrative rights to install software, please refer to section Programming on the cloud or contact your IT-helpdesk to help you with installations.
 
 ## Programming on the cloud
 

@@ -8,9 +8,9 @@ By the end of the course, students can write small programs (less than hundred l
    
 3. discuss and deepen the applications of computational social science in practical research, that is existing literature and different applications they have in social science and developing sociological imagination
 
-[g-alert type=danger]
-**This is an hands on-course.** The course focuses on building programming skills. Students are expected to work on programming exercises. The workload of this course can be heavy. 
-[/g-alert]
+!!! info 
+    **This is an hands on-course.** The course focuses on building programming skills. Students are expected to work on programming exercises. The workload of this course can be heavy. 
+
 
 The course provides hands-on skills for applied computational social science approaches. Course examines:
 
@@ -55,7 +55,7 @@ Passing grade on this course requires 80% of exercises done for all exercises.
 
 ## Week 1: Introduction (1.11.)
 
-!!! warning
+!!! tip
     Before the first session, please have either R or Python installed on your computer. See [Setup](setup.md)
 
 
