@@ -87,8 +87,8 @@ All course material (incl. assignments) will be available in Moodle area.
 - Functions and libraries
 
 !!! warning "Info" 
-    **Independence Day. No session.**
+    **Independence Day 6.12.** No session.
 
-### Week 7 (13.12)
+### Week 7 (13.12.)
 
 - Collecting online data

@@ -3,7 +3,7 @@
 The course can be completed with either Python or R. If you have any previous programming experience with one or both of them, it is recommended to choose the language you are more comfortable using. 
 
 !!! warning 
-    If you are using a computer (i.e. laptop from your employer), in which you don't have administrative rights to install software, please refer to section Programming on the cloud or contact your IT-helpdesk to help you with installations.
+    If you are using a computer (i.e. laptop from your employer), in which you don't have administrative rights to install software, please refer to section Programming on the cloud or contact your organization's IT-helpdesk to help you with installations.
 
 
 ## Option A: Python
@@ -29,13 +29,14 @@ The course can be completed with either Python or R. If you have any previous pr
     
 ### Programming on the cloud
 
-In case you run out of memory or have problems to install software, use following online versions:
+In case you problems to install software, use following online versions:
 
-- [University of Helsinki Virtual Desktop Environment](https://vdi.helsinki.fi/) - desktop environment that with preinstalled softwars
-- [CSC Notebooks](https://notebooks.rahtiapp.fi/welcome) 
-  - Login with your HAKA credidentials.
-  - Create an instance of "Course Introduction to Python (self-study)" and a notebook there. 
-  - Remember to always save your changes to a local machine: the files in CSC will be destroyed within five hours.
+1. [University of Helsinki Virtual Desktop Environment](https://vdi.helsinki.fi/) 
+    - desktop environment that with preinstalled softwars
+2. [CSC Notebooks](https://notebooks.rahtiapp.fi/welcome) 
+    - Login with your HAKA credidentials.
+    - Create an instance of "Course Introduction to Python (self-study)" and a notebook there. 
+    - Remember to always save your changes to a local machine: the files in CSC will be destroyed within five hours.
 
 
 ## Brief introduction to notebooks
