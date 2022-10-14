@@ -51,6 +51,10 @@ The course is graded on pass/fail -scale. This aims to motivate everyone to take
 
 Passing grade on this course requires 80% of exercises done for all exercises.
 
+# Course Material
+
+All course material (incl. assignments) will be available in Moodle area. 
+
 # Course syllabus
 
 ## Week 1: Introduction (1.11.)
@@ -58,17 +62,33 @@ Passing grade on this course requires 80% of exercises done for all exercises.
 !!! tip
     Before the first session, please have either R or Python installed on your computer. See [Setup](setup.md)
 
-
+- Computational thinking 
+- Variables and operation
 
 ## Week 2 (8.11.)
 
+- Repeating commands
+- Controlling program flow
+
 ## Week 3 (15.11.)
+
+- Data structures
 
 ## Week 4 (22.11.)
 
+- Data structures (cont.)
+
+## Week 5 (29.11.)
+
+- Managing code
+
 ## Week 6 (6.12.)
 
-Independence day, no session.
+!!! warning "Info" 
+    **Independence Day. No session.**
+    
+- Functions and libraries
 
 ## Week 7 (13.12)
 
+- Collecting online data
