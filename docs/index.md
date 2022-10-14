@@ -1,4 +1,4 @@
-# Goal
+## Goal
 
 By the end of the course, students can write small programs (less than hundred lines) which help them to collect, process and analyze data through computational means. There are three sub goals for this course
 
@@ -21,7 +21,7 @@ The course provides hands-on skills for applied computational social science app
 -  functions
 -  using external libraries
 
-# Administrative details
+## Administrative details
 
 This year, the course is organised compleatly online.
 
@@ -29,35 +29,35 @@ For admnistrative details and enrollment, see:
 
 - [University of Helsinki](https://studies.helsinki.fi/courses/cur/hy-opt-cur-2223-2b54c8da-0aee-463e-9012-82b9295a7834/%E2%90%9FSOST%E2%90%9F-%E2%90%9F930%E2%90%9F/Programming_for_social_sciences)
 
-# Course practicalities
+## Course practicalities
 
 We use **flipped classroom approach** in this course. That means we expect students to familiarize with the course material on their own before lectures. These pre-assignments follow the materials regarding Python or R. 
 
 The course assignments are scheduled evenly for each week. You are able to complete the course at your own pace independently as long as you submit your work by the weekly deadlines.
 
-## Sessions
+### Sessions
 
 Session take place every Tuesday at 10:15-11:45 at Unioninkatu 35, lecture hall 114 starting November 1st. Participation to the session is not mandatory.
 
 Our empahsis in the class is to work on assigned programming exercises. Joni will be there to help you, but for most parts this will be independed work. During the session, we focus on that week's exercises, but you can also ask help for previous exercises.
 
-## Assingments 
+### Assignments 
 
 We expect you to return some of your assignments every week to Moodle by the following Monday 11.59 AM. The returned exercises are marked in each exercise sheets. 
 
-# Evaluation
+### Evaluation
 
 The course is graded on pass/fail -scale. This aims to motivate everyone to take the course, as it will not impact your grade point average.
 
 Passing grade on this course requires 80% of exercises done for all exercises.
 
-# Course Material
+### Course Material
 
 All course material (incl. assignments) will be available in Moodle area. 
 
-# Course syllabus
+## Course syllabus
 
-## Week 1: Introduction (1.11.)
+### Week 1: Introduction (1.11.)
 
 !!! tip
     Before the first session, please have either R or Python installed on your computer. See [Setup](setup.md)
@@ -65,30 +65,30 @@ All course material (incl. assignments) will be available in Moodle area.
 - Computational thinking 
 - Variables and operation
 
-## Week 2 (8.11.)
+### Week 2 (8.11.)
 
 - Repeating commands
 - Controlling program flow
 
-## Week 3 (15.11.)
+### Week 3 (15.11.)
 
 - Data structures
 
-## Week 4 (22.11.)
+### Week 4 (22.11.)
 
 - Data structures (cont.)
 
-## Week 5 (29.11.)
+### Week 5 (29.11.)
 
 - Managing code
 
-## Week 6 (6.12.)
+### Week 6 (6.12.)
 
 !!! warning "Info" 
     **Independence Day. No session.**
     
 - Functions and libraries
 
-## Week 7 (13.12)
+### Week 7 (13.12)
 
 - Collecting online data

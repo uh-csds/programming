@@ -25,9 +25,9 @@ The course can be completed with either Python or R. If you have any previous pr
 2. If this is your first time launching RStudio, check this [introduction to the interface](https://www.r4epi.com/navigating-the-rstudio-interface.html) from the book  [R for Epidemiology](https://www.r4epi.com/) by Brad Cannell.
 
 
-# Short tutorials
+## Short tutorials
     
-## Programming on the cloud
+### Programming on the cloud
 
 In case you run out of memory or have problems to install software, use following online versions:
 
@@ -38,7 +38,7 @@ In case you run out of memory or have problems to install software, use followin
   - Remember to always save your changes to a local machine: the files in CSC will be destroyed within five hours.
 
 
-# Brief introduction to notebooks
+## Brief introduction to notebooks
 
 Juniper Notebooks are convinent and allows data exploration. It is not the only editor available for programming, but fairly popular among researchers. Jupyter can run both Python and R, but not interchangebly at the same time.
 
