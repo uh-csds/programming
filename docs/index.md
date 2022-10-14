@@ -1,3 +1,5 @@
+# Programming for Social Science, Fall 2022
+
 ## Goal
 
 By the end of the course, students can write small programs (less than hundred lines) which help them to collect, process and analyze data through computational means. There are three sub goals for this course
@@ -83,11 +85,11 @@ All course material (incl. assignments) will be available in Moodle area.
 - Managing code
 
 ### Week 6 (6.12.)
+    
+- Functions and libraries
 
 !!! warning "Info" 
     **Independence Day. No session.**
-    
-- Functions and libraries
 
 ### Week 7 (13.12)
 
