@@ -23,19 +23,17 @@ The course provides hands-on skills for applied computational social science app
 -  functions
 -  using external libraries
 
-## Administrative details
-
-This year, the course is organised compleatly online.
-
-For admnistrative details and enrollment, see:
-
-- [University of Helsinki](https://studies.helsinki.fi/courses/cur/hy-opt-cur-2223-2b54c8da-0aee-463e-9012-82b9295a7834/%E2%90%9FSOST%E2%90%9F-%E2%90%9F930%E2%90%9F/Programming_for_social_sciences)
-
 ## Course practicalities
 
 We use **flipped classroom approach** in this course. That means we expect students to familiarize with the course material on their own before lectures. These pre-assignments follow the materials regarding Python or R. 
 
 The course assignments are scheduled evenly for each week. You are able to complete the course at your own pace independently as long as you submit your work by the weekly deadlines.
+
+### Administrative details
+
+For admnistrative details and enrollment, see:
+
+- [University of Helsinki](https://studies.helsinki.fi/courses/cur/hy-opt-cur-2223-2b54c8da-0aee-463e-9012-82b9295a7834/%E2%90%9FSOST%E2%90%9F-%E2%90%9F930%E2%90%9F/Programming_for_social_sciences)
 
 ### Sessions
 
