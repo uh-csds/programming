@@ -3,7 +3,7 @@
 The course can be completed with either Python or R. If you have any previous programming experience with one or both of them, it is recommended to choose the language you are more comfortable using. 
 
 !!! warning 
-    If you are using a computer (i.e. laptop from your employer), in which you don't have administrative rights to install software, please refer to section Programming on the cloud or contact your organization's IT-helpdesk to help you with installations.
+    If you are using a computer (i.e. laptop from your employer), that you don't have administrative rights to install software, please refer to section Programming on the cloud or contact your organization's IT-helpdesk to help you with installations.
 
 
 ## Option A: Python
