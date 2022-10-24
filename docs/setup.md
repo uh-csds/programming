@@ -29,7 +29,7 @@ In case you problems to install software, use following online versions:
 
 1. [University of Helsinki Virtual Desktop Environment](https://vdi.helsinki.fi/) 
     
-   - desktop environment that with preinstalled software
+   - desktop environment that with preinstalled software.
 
 
 2. [CSC Notebooks](https://notebooks.rahtiapp.fi/welcome) 
