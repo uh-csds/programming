@@ -1,6 +1,6 @@
 # Requirements
 
-The course can be completed with either Python or R. 
+The course can be completed with either R or Python. 
 
 If you have any previous programming experience with one or both of them, it is recommended to choose the language you are more comfortable using. **It is not recommended to use both language simultaneously**.
 
