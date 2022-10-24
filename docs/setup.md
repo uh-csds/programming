@@ -1,11 +1,11 @@
 # Requirements
 
-The course can be completed with either R or Python. 
+The course can be completed with either R or Python. This year the emphasis is on R language, but the course material also supports working with Python.
 
 If you have any previous programming experience with one or both of them, it is recommended to choose the language you are more comfortable using. **It is not recommended to use both language simultaneously**.
 
 !!! warning 
-    If you are using a computer (i.e. laptop from your employer), that you don't have administrative rights to install software, please refer to section Programming on the cloud or contact your organization's IT-helpdesk to help you with installations.
+    If you are using a computer (i.e. laptop from your employer), that you don't have administrative rights to install software, please refer to section [Programming on the cloud](#programming-on-the-cloud) or contact your organization's IT-helpdesk to help you with installations.
 
 
 ## Option A: R and RStudio
@@ -25,7 +25,7 @@ If you have any previous programming experience with one or both of them, it is 
     
 ### Programming on the cloud
 
-In case you problems to install software, use following online versions:
+In case you problems to install software, use one of the following services available:
 
 1. [University of Helsinki Virtual Desktop Environment](https://vdi.helsinki.fi/) 
     
