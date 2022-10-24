@@ -28,11 +28,15 @@ If you have any previous programming experience with one or both of them, it is 
 In case you problems to install software, use following online versions:
 
 1. [University of Helsinki Virtual Desktop Environment](https://vdi.helsinki.fi/) 
-    - desktop environment that with preinstalled softwars
+    
+   - desktop environment that with preinstalled software
+
+
 2. [CSC Notebooks](https://notebooks.rahtiapp.fi/welcome) 
+
     - Login with your HAKA credidentials.
-    - Create an instance of "Course Introduction to Python (self-study)" and a notebook there. 
-    - Remember to always save your changes to a local machine: the files in CSC will be destroyed within five hours.
+    - Create an instance of "Course Introduction to R" or "Course Introduction to Python" (both self-learning) and a notebook in that instance. 
+    - Remember to **always save your changes to a local machine**: the files in CSC will be destroyed within five hours.
 
 
 ## Brief introduction to notebooks
