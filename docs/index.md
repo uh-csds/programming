@@ -62,48 +62,39 @@ All course material (incl. assignments) will be available in Moodle area.
 !!! tip
     Before the first session, please have either R or Python installed on your computer. See [Setup](setup.md)
 
+!!! info
+    Read chapter 2 from Coding Social Science (Nelimarkka, 2022). Book is available on Moodle.
+
 - Computational thinking 
 - Variables and operation
-
-Read book chapters 1 and 2.
 
 ### Week 2 (8.11.)
 
 - Repeating commands
 - Controlling program flow
 
-Continue book chapter 2.
 
 ### Week 3 (15.11.)
 
 - Revisiting computational thinking
 - Data structures
 
-Read book chapter 5.
 
 ### Week 4 (22.11.)
 
 - Data structures (cont.)
 
-Continue book chapter 5.
-
 ### Week 5 (29.11.)
 
-- Managing code
-
-Read book chapter 8.
+- Functions and libraries
 
 ### Week 6 (6.12.)
 
 !!! warning "Info" 
     **Independence Day 6.12.** No session.
 
-- Functions and libraries
-
-Read book chapter 7.
+- Managing code
 
 ### Week 7 (13.12.)
 
 - Collecting online data
-
-Read book chapter 9.

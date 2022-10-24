@@ -1,28 +1,24 @@
 # Requirements
 
-The course can be completed with either Python or R. If you have any previous programming experience with one or both of them, it is recommended to choose the language you are more comfortable using. 
+The course can be completed with either Python or R. 
+
+If you have any previous programming experience with one or both of them, it is recommended to choose the language you are more comfortable using. **It is not recommended to use both language simultaneously**.
 
 !!! warning 
     If you are using a computer (i.e. laptop from your employer), that you don't have administrative rights to install software, please refer to section Programming on the cloud or contact your organization's IT-helpdesk to help you with installations.
 
 
-## Option A: Python
+## Option A: R and RStudio
 
-!!! tip
-    Recommended for first time programmers.
+1. Install **both** [R](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/). 
+2. If this is your first time launching RStudio, check this [introduction to the interface](https://www.r4epi.com/navigating-the-rstudio-interface.html) from the book  [R for Epidemiology](https://www.r4epi.com/) by Brad Cannell.
+
+
+## Option B: Python
 
 1. Install [Anaconda](https://www.anaconda.com/products/distribution) with Python 3.9.
 2. Follow up installation instructions and start [Jupyter Notebook](https://jupyter.org/) from Anaconda settings.
 3. If this is your first time with notebooks, check section [Brief introduction to notebooks](#brief-introduction-to-notebooks) below.
-
-
-## Option B: R and RStudio
-
-!!! tip
-    Recommended for people with some previous experience with R.
-
-1. Install **both** [R](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/). 
-2. If this is your first time launching RStudio, check this [introduction to the interface](https://www.r4epi.com/navigating-the-rstudio-interface.html) from the book  [R for Epidemiology](https://www.r4epi.com/) by Brad Cannell.
 
 
 ## Short tutorials
