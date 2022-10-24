@@ -9,7 +9,7 @@
       
       
       <link rel="icon" href="../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.4.0, mkdocs-material-8.5.6">
+      <meta name="generator" content="mkdocs-1.4.1, mkdocs-material-8.5.7">
     
     
       
@@ -197,15 +197,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#option-a-python" class="md-nav__link">
-    Option A: Python
+  <a href="#option-a-r-and-rstudio" class="md-nav__link">
+    Option A: R and RStudio
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#option-b-r-and-rstudio" class="md-nav__link">
-    Option B: R and RStudio
+  <a href="#option-b-python" class="md-nav__link">
+    Option B: Python
   </a>
   
 </li>
@@ -272,15 +272,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#option-a-python" class="md-nav__link">
-    Option A: Python
+  <a href="#option-a-r-and-rstudio" class="md-nav__link">
+    Option A: R and RStudio
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#option-b-r-and-rstudio" class="md-nav__link">
-    Option B: R and RStudio
+  <a href="#option-b-python" class="md-nav__link">
+    Option B: Python
   </a>
   
 </li>
@@ -328,40 +328,38 @@
 
 
 <h1 id="requirements">Requirements</h1>
-<p>The course can be completed with either Python or R. If you have any previous programming experience with one or both of them, it is recommended to choose the language you are more comfortable using. </p>
+<p>The course can be completed with either Python or R. </p>
+<p>If you have any previous programming experience with one or both of them, it is recommended to choose the language you are more comfortable using. <strong>It is not recommended to use both language simultaneously</strong>.</p>
 <div class="admonition warning">
 <p class="admonition-title">Warning</p>
-<p>If you are using a computer (i.e. laptop from your employer), in which you don't have administrative rights to install software, please refer to section Programming on the cloud or contact your IT-helpdesk to help you with installations.</p>
+<p>If you are using a computer (i.e. laptop from your employer), that you don't have administrative rights to install software, please refer to section Programming on the cloud or contact your organization's IT-helpdesk to help you with installations.</p>
 </div>
-<h2 id="option-a-python">Option A: Python</h2>
-<div class="admonition tip">
-<p class="admonition-title">Tip</p>
-<p>Recommended for first time programmers.</p>
-</div>
+<h2 id="option-a-r-and-rstudio">Option A: R and RStudio</h2>
+<ol>
+<li>Install <strong>both</strong> <a href="https://www.r-project.org/">R</a> and <a href="https://www.rstudio.com/">RStudio</a>. </li>
+<li>If this is your first time launching RStudio, check this <a href="https://www.r4epi.com/navigating-the-rstudio-interface.html">introduction to the interface</a> from the book  <a href="https://www.r4epi.com/">R for Epidemiology</a> by Brad Cannell.</li>
+</ol>
+<h2 id="option-b-python">Option B: Python</h2>
 <ol>
 <li>Install <a href="https://www.anaconda.com/products/distribution">Anaconda</a> with Python 3.9.</li>
 <li>Follow up installation instructions and start <a href="https://jupyter.org/">Jupyter Notebook</a> from Anaconda settings.</li>
 <li>If this is your first time with notebooks, check section <a href="#brief-introduction-to-notebooks">Brief introduction to notebooks</a> below.</li>
 </ol>
-<h2 id="option-b-r-and-rstudio">Option B: R and RStudio</h2>
-<div class="admonition tip">
-<p class="admonition-title">Tip</p>
-<p>Recommended for people with some previous experience with R.</p>
-</div>
-<ol>
-<li>Install <strong>both</strong> <a href="https://www.r-project.org/">R</a> and <a href="https://www.rstudio.com/">RStudio</a>. </li>
-<li>If this is your first time launching RStudio, check this <a href="https://www.r4epi.com/navigating-the-rstudio-interface.html">introduction to the interface</a> from the book  <a href="https://www.r4epi.com/">R for Epidemiology</a> by Brad Cannell.</li>
-</ol>
 <h2 id="short-tutorials">Short tutorials</h2>
 <h3 id="programming-on-the-cloud">Programming on the cloud</h3>
-<p>In case you run out of memory or have problems to install software, use following online versions:</p>
-<ul>
-<li><a href="https://vdi.helsinki.fi/">University of Helsinki Virtual Desktop Environment</a> - desktop environment that with preinstalled softwars</li>
-<li><a href="https://notebooks.rahtiapp.fi/welcome">CSC Notebooks</a> </li>
+<p>In case you problems to install software, use following online versions:</p>
+<ol>
+<li><a href="https://vdi.helsinki.fi/">University of Helsinki Virtual Desktop Environment</a> <ul>
+<li>desktop environment that with preinstalled softwars</li>
+</ul>
+</li>
+<li><a href="https://notebooks.rahtiapp.fi/welcome">CSC Notebooks</a> <ul>
 <li>Login with your HAKA credidentials.</li>
 <li>Create an instance of "Course Introduction to Python (self-study)" and a notebook there. </li>
 <li>Remember to always save your changes to a local machine: the files in CSC will be destroyed within five hours.</li>
 </ul>
+</li>
+</ol>
 <h2 id="brief-introduction-to-notebooks">Brief introduction to notebooks</h2>
 <p>Juniper Notebooks are convinent and allows data exploration. It is not the only editor available for programming, but fairly popular among researchers. Jupyter can run both Python and R, but not interchangebly at the same time.</p>
 <p>Code is written in cells:</p>
@@ -400,10 +398,10 @@
       <div class="md-dialog__inner md-typeset"></div>
     </div>
     
-    <script id="__config" type="application/json">{"base": "..", "features": [], "search": "../assets/javascripts/workers/search.5bf1dace.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}}</script>
+    <script id="__config" type="application/json">{"base": "..", "features": [], "search": "../assets/javascripts/workers/search.16e2a7d4.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}}</script>
     
     
-      <script src="../assets/javascripts/bundle.078830c0.min.js"></script>
+      <script src="../assets/javascripts/bundle.8492ddcf.min.js"></script>
       
     
   </body>
