@@ -43,7 +43,9 @@ Our empahsis in the class is to work on assigned programming exercises. Joni wil
 
 ### Assignments 
 
-We expect you to return some of your assignments every week to Moodle by the following Monday 11.59 AM. The returned exercises are marked in each exercise sheets. 
+Mark every every compeleted exercise in the list available on Moodle. 
+
+We expect you to return some of your assignments every week to Moodle by the following Monday 11.59 AM. The returned exercises are labelled in each week's exercise sheet.
 
 ### Evaluation
 
