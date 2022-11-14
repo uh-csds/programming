@@ -85,18 +85,23 @@ All course material (incl. assignments) will be available in Moodle area.
 ### Week 4 (22.11.)
 
 - Data structures (cont.)
+- Functions and libraries 
 
 ### Week 5 (29.11.)
 
-- Functions and libraries
+- Functions and libraries (cont.)
+- Interactive systems
+- Regular expressions
 
 ### Week 6 (6.12.)
 
 !!! warning "Info" 
     **Independence Day 6.12.** No session.
 
-- Managing code
+- Data structures (cont.)
+- Working with messy data
 
 ### Week 7 (13.12.)
 
+- Managing code
 - Collecting online data
