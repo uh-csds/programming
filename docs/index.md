@@ -99,7 +99,7 @@ All course material (incl. assignments) will be available in Moodle area.
     **Independence Day 6.12.** No session.
 
 - Data structures (cont.)
-- Working with messy data
+- Data cleaning
 
 ### Week 7 (13.12.)
 
